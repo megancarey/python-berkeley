@@ -8,11 +8,13 @@ redirect_from: learning_resources.html
 * content
 {:toc}
 
+## General Programming Resources
+Want to learn more about programming in general? Check out this [history of computer programming](https://www.certstaff.com/trainingcatalog/computer-programming-history.html)! (Thanks Nicole!)
+
 ## Python Resources
 If you're new to Python, we recommend that you [start here!](/learn)
 
 ## Where to ask questions
-
 The best place online is probably [Stack
 Overflow](http://stackoverflow.com). If you do a Google search, you might find a similar question already asked (and answered!) on Stack Overflow. The site is picky about new questions; please read [Stack Overflow's tour](http://stackoverflow.com/tour) or this in-depth [essay on
 asking good questions by Eric Raymond](http://catb.org/~esr/faqs/smart-questions.html). 
