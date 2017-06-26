@@ -8,9 +8,6 @@ redirect_from: learning_resources.html
 * content
 {:toc}
 
-## General Programming Resources
-Want to learn more about programming in general? Check out this [history of computer programming](https://www.certstaff.com/trainingcatalog/computer-programming-history.html)! (Thanks Nicole!)
-
 ## Python Resources
 If you're new to Python, we recommend that you [start here!](/learn)
 
